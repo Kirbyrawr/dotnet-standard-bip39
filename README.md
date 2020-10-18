@@ -11,5 +11,5 @@
   - Name: Kirbyrawr
   - URL: https://registry.npmjs.org
   - Scope(s): com.kirbyrawr
-- Go to Package Manager and select in the Packages dropdown 'Måy Registries'
+- Go to Package Manager and select in the Packages dropdown 'My Registries'
 - Select the name of the package and install it.
