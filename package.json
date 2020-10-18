@@ -1,0 +1,23 @@
+{
+  "name": "com.kirbyrawr.dotnetstandard-bip39",
+  "version": "1.0.0",
+  "displayName": "BIP39",
+  "description": "This is a package that contains the 'dotnetstandard-bip39' libraries compiled to use in Unity.\nThe code credits go to the original authors of 'dotnetstandard-bip39'.",
+  "unity": "2019.1",
+  "unityRelease": "1f1",
+  "keywords": [
+    "bip39",
+    "dlls",
+    "compiled"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Kirbyrawr/dotnetstandard-bip39.git"
+  },
+  "license": "Apache 2.0",
+  "author": {
+    "name": "Kirbyrawr",
+    "email": "devkirbyrawr@gmail.com"
+  },
+  "type": "library"
+}
