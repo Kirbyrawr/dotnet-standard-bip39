@@ -1,5 +1,5 @@
 # dotnet-standard-bip39
-- License: MIT
+- License: Apache 2.0
 - Authors:
   - Elucidsoft (Library / Code)
   - Kirbyrawr (Unity Package)
